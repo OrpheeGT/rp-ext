@@ -1,6 +1,6 @@
 {
   "id": "pocopico.redpill",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/OrpheeGT/rp-ext/master/redpill/rpext-index.json",
   "info": {
     "name": "redpill",
     "description": "Static Redpill Module",
@@ -17,7 +17,8 @@
     "ds918p_41890": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds918p_41890.json",
     "ds918p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds918p_42218.json",
     "ds3617xs_42218u2": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds3617xs_42218.json",
-    "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds3622xsp_42218.json"
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds3622xsp_42218.json",
+    "ds3622xsp_42218u3": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/ds3622xsp_42218.json"
 
   }
 }
