@@ -1,10 +1,10 @@
 {
-  "id": "OrpheeGT.r8169",
+  "id": "orpheegt.r8169",
   "url": "https://raw.githubusercontent.com/OrpheeGT/rp-ext/master/r8169/rpext-index.json",
   "info": {
     "name": "r8169",
     "description": "Adds RealTek RTL-8169 Gigabit Ethernet driver Support",
-    "author_url": "https://github.com/OrpheeGT",
+    "author_url": "https://github.com/orpheegt",
     "packer_url": "https://github.com/OrpheeGT/rp-ext/tree/main/r8169",
     "help_url": "<todo>"
   },
