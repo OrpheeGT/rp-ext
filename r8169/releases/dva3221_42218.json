@@ -1,0 +1,28 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "r8169-4.4.180plus-denverton.tgz",
+      "url": "https://raw.githubusercontent.com/OrpheeGT/rp-ext/master/r8169/releases/r8169-4.4.180plus-denverton.tgz",
+      "sha256": "a5aae4213d50d67271ec1922f4390a44720f3677d6fe205283f8a54bd6d45d38",
+      "packed": true
+    },
+    {
+      "name": "check-r8169.sh",
+      "url": "https://raw.githubusercontent.com/OrpheeGT/rp-ext/master/r8169/src/check-r8169.sh",
+      "sha256": "dc9d34f07c8c2e7ead58d4eaec312c58784fae9594a495324bd8b8b410cb5247",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "mii.ko": "",
+    "r8169.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-r8169.sh"
+  }
+
+}
